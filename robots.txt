@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urvaucesto.github.io/sitemap.html.gz
+Sitemap: https://urvaucesto.github.io/app/sitemap.html.gz
+Sitemap: https://urvaucesto.github.io/assets/sitemap.html.gz
+Sitemap: https://urvaucesto.github.io/css/sitemap.html.gz
+Sitemap: https://urvaucesto.github.io/includes/sitemap.html.gz
+Sitemap: https://urvaucesto.github.io/item/sitemap.html.gz
+Sitemap: https://urvaucesto.github.io/src/sitemap.html.gz
